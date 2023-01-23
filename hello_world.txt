@@ -1,1 +1,2 @@
 This is part of Odin's excersize.
+Testing commit's message setting.
